@@ -20,11 +20,11 @@
 </div>
 <br>
 
-<p align="center">✍️ My Portfolio:</p>
+<p align="center">Portfolio:</p>
 
 <div align='center'>
   <a href='https://mina-melad.onrender.com/'>
-    <img src="images/port.png" alt="LinkedIn" height="45" width='150' />
+    <img src="images/port.png" alt="Portfolio" height="45" width='150' />
   </a>
 </div>
 
