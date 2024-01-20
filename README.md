@@ -24,7 +24,7 @@
 
 <div align='center'>
   <a href='https://mina-melad.onrender.com/'>
-    <img src="icons/medium.svg" alt="LinkedIn" height="45" width='150' />
+    <img src="images/port.png" alt="LinkedIn" height="45" width='150' />
   </a>
 </div>
 
@@ -61,8 +61,8 @@
       <br/>Redux
     </td>
     <td align="center" height="70" width="70">
-      <img src="icons/styled-components.svg" alt="Styled Components" height="40"/>
-      <br/>Styled Components
+      <img src="images/tailwind.png" alt="Styled Components" height="40"/>
+      <br/>Tailwind
     </td>
   </tr>
 </table>
