@@ -80,10 +80,6 @@
       <br/>Vite
     </td>
     <td align="center" height="70" width="70">
-      <img src="icons/aws.svg" alt="GitLab" width="40" height="40"/>
-      <br/>AWS
-    </td>
-    <td align="center" height="70" width="70">
       <img src="icons/figma.svg" alt="Figma" width="40" height="40"/>
       <br/>Figma
     </td>
