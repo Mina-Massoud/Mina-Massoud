@@ -144,6 +144,9 @@
         <br>
         <br>
         <p>
+          <a href='https://github.com/Mina-Massoud/Shop-Vipe'>
+            <img src="icons/repo-web.svg"/>
+          </a>
           <a href='https://shop-vipe.vercel.app/'>
             <img src='icons/live.svg'/>
           </a>
