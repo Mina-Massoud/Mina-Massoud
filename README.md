@@ -20,8 +20,6 @@
 </div>
 <br>
 
-<p align="center">Portfolio:</p>
-
 <div align='center'>
   <a href='https://mina-melad.onrender.com/'>
     <img src="images/port.png" alt="Portfolio" height="45" width='150' />
