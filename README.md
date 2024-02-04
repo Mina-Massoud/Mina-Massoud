@@ -96,6 +96,22 @@
       <td width='50%' colspan=2>
       <h2 align='center'>Portfolio</h2>
       <div align='center'>  
+        <a href='https://mina-melad.vercel.app/'> 
+          <img src='images/main-portfolio.png' alt='portfolio'/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://mina-melad.onrender.com/'>
+            <img src='icons/live.svg'/>
+          </a>
+        </p>
+        <p><strong>React, Framer motion, Tailwind CSS, Sanity </strong></p>
+      </div>
+    </td>
+      <td width='50%' colspan=2>
+      <h2 align='center'>Old Portfolio</h2>
+      <div align='center'>  
         <a href='https://mina-melad.onrender.com/'>
           <img src='images/4.png' alt='portfolio'/>
         </a>
