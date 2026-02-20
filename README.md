@@ -2,7 +2,7 @@
   title="Profile">I'm Mina</a>👋</h2>
 <br>
 <p align="center">
-  I'm a 20 years old Software Engineer based in Egypt<br>
+  I'm a 22 years old Software Engineer based in Egypt<br>
   I'm passionate about creating intuitive and dynamic user experiences. With a background in front-end web development and a keen eye for design, I always strive to build websites that are 
   both visually compelling and functionally effective.
  <br>
